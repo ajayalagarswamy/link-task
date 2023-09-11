@@ -1,0 +1,144 @@
+.maindiv{
+    border: 2px solid lightgrey;
+    width: 90%;
+    height: 100px;
+    margin-left: 80px;
+    border-radius: 10px;
+}
+
+.textcolor{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.pri{
+    height: 40px;
+    width: 90px;
+    font-size: 20px;
+    background-color: blue;
+    border: 2px solid blue;
+    color: white;
+    border-radius: 5px;
+} 
+
+.pri:hover{
+    cursor: pointer;
+    background-color: rgba(60, 60, 181, 0.61);
+    border: 2px solid rgba(60, 60, 181, 0.667);
+}
+
+.sec {
+    height: 40px;
+    width: 110px;
+    font-size: 20px;
+    background-color:gray;
+    border: 2px solid gray;
+    color: white;
+    border-radius: 5px;
+}
+
+.sec:hover {
+    cursor: pointer;
+    background-color: lightgray;
+    border: 2px solid lightgrey;
+}
+
+.suc {
+    height: 40px;
+    width: 90px;
+    font-size: 20px;
+    background-color: green;
+    border: 2px solid green;
+    color: white;
+    border-radius: 5px;
+}
+
+.suc:hover {
+    cursor: pointer;
+    background-color:lightgreen;
+    border: 2px solid lightgreen;
+}
+
+.dan {
+    height: 40px;
+    width: 90px;
+    font-size: 20px;
+    background-color:red;
+    border: 2px solid red;
+    color: white;
+    border-radius: 5px;
+    text-decoration: underline;
+}
+
+.dan:hover {
+    cursor: pointer;
+    background-color: rgba(255, 0, 0, 0.507);
+    border: 2px solid rgba(255, 0, 0, 0.413);
+}
+
+.war {
+    height: 40px;
+    width: 90px;
+    font-size: 20px;
+    background-color: yellow;
+    border: 2px solid yellow;
+    color: black;
+    border-radius: 5px;
+}
+
+.war:hover {
+    cursor: pointer;
+    background-color: rgba(155, 155, 29, 0.708);
+    border: 2px solid rgba(147, 171, 30, 0.708);
+}
+
+
+.inf {
+    height: 40px;
+    width: 90px;
+    font-size: 20px;
+    background-color: rgb(196, 251, 255);
+    border: 2px solid rgb(196, 251, 255);
+    color: black;
+    border-radius: 5px;
+}
+
+.inf:hover {
+    cursor: pointer;
+    background-color: rgba(30, 148, 139, 0.708);
+    border: 2px solid rgba(37, 93, 96, 0.708);
+}
+
+
+.li {
+    height: 40px;
+    width: 90px;
+    font-size: 20px;
+    background-color: white;
+    border: 2px solid white;
+    color: black;
+    border-radius: 5px;
+}
+
+.li:hover {
+    cursor: pointer;
+    background-color: white;
+    border: 2px solid white;
+}
+
+
+.dk {
+    height: 40px;
+    width: 90px;
+    font-size: 20px;
+    background-color: black;
+    border: 2px solid black;
+    color: white;
+    border-radius: 5px;
+}
+
+.dk:hover {
+    cursor: pointer;
+    background-color: lightgrey;
+    border: 2px solid lightgrey;
+}
